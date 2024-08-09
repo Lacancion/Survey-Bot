@@ -1,0 +1,4 @@
+Desert
+Forest
+Mountain
+Plains
